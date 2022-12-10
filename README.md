@@ -1,5 +1,3 @@
 # ZarApp
  dice rolling app
-(ZarApp.png)
-(ZarApp2.png)
-(ZarApp3.png)
+(https://github.com/sudenazcivelek/ZarApp/blob/main/ZarApp.png)
